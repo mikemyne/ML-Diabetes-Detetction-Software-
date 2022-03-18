@@ -8,5 +8,5 @@ Streamlit is an open-source python library for creating and sharing web apps for
 Python in association with Streamlit
 
 ## Alternatives:
-Jupyter Notebook
-Google colab
+ Jupyter Notebook or
+ Google colab
